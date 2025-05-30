@@ -39,8 +39,8 @@ javac -version
 mvn -version
 ```
 
-1. Clone o repositório: `git clone https://github.com/davioliveiraes/portfolio_programao_web_java_springBoot.git`
-2. cd `portfolio_programao_web_java_springBoot`
+1. Clone o repositório: `git clone https://github.com/davioliveiraes/portfolio_programacao_web.git`
+2. cd `portfolio_programao_web`
 3. Instale as dependências: `mvn clean install`
 4. Execute a aplicação: `mvn spring-boot:run`
 5. Acesse a aplicação: Abra o navegador e acesso: `http://localhost:8080`
