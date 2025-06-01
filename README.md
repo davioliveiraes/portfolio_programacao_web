@@ -50,6 +50,6 @@ mvn -version
    - PUT: Atualizar registros existentes
    - DELETE: Remover registros <br>
    <strong>Endpoints disponíveis: Após executar a aplicação, você pode testar os endpoints da API REST para operações CRUD</strong>
-7. Link do vídeo demonstrando a aplicação: `https://www.youtube.com/watch?v=SWCz3fE4BW0&t=1138s`
+7. Link do vídeo demonstrando a aplicação: [Clique aqui e acesse](https://www.youtube.com/watch?v=SWCz3fE4BW0&t=1138s)
 
 
